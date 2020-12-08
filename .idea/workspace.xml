@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1987267-9d3f-4e53-afbb-f89c153d02ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/publisher">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/subscriber">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../subscriber">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lK78HGMzDBpvZjOV1HCVCaUXza" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/publisher" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.intech.subscriber.service." />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SubscriberApplication">
+    <configuration name="PubSubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pub-sub.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.intech.pubsub.PubSubApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscriberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="subscriber.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.intech.subscriber.SubscriberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1987267-9d3f-4e53-afbb-f89c153d02ac" name="Default Changelist" comment="" />
+      <created>1607333767556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607333767556</updated>
+      <workItem from="1607333780136" duration="204000" />
+      <workItem from="1607334031574" duration="50000" />
+      <workItem from="1607334116874" duration="1763000" />
+      <workItem from="1607336031612" duration="1671000" />
+      <workItem from="1607337795184" duration="1761000" />
+      <workItem from="1607339611503" duration="1486000" />
+      <workItem from="1607341477893" duration="1609000" />
+      <workItem from="1607343747237" duration="1752000" />
+      <workItem from="1607345638537" duration="1673000" />
+      <workItem from="1607399589398" duration="1729000" />
+      <workItem from="1607401374775" duration="1759000" />
+      <workItem from="1607403527685" duration="1528000" />
+      <workItem from="1607405488217" duration="1821000" />
+      <workItem from="1607407385949" duration="1759000" />
+      <workItem from="1607410683947" duration="1687000" />
+      <workItem from="1607413039117" duration="1760000" />
+      <workItem from="1607414980748" duration="1584000" />
+      <workItem from="1607416644729" duration="1757000" />
+      <workItem from="1607418543394" duration="1759000" />
+      <workItem from="1607420377252" duration="999000" />
+      <workItem from="1607422313269" duration="1753000" />
+      <workItem from="1607424191110" duration="1746000" />
+      <workItem from="1607426021304" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="275" key="#Assign_Data_Sources" timestamp="1607418205218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="582" y="275" key="#Assign_Data_Sources/0.0.1366.768@0.0.1366.768" timestamp="1607418205218" />
+    <state x="309" y="62" key="#Inspections" timestamp="1607337101534">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="309" y="62" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1607337101534" />
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607418638260">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1607418638260" />
+    <state x="488" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1607425528479">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1607425528479" />
+    <state x="409" y="291" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1607426340442">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="409" y="291" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.768@0.0.1366.768" timestamp="1607426340442" />
+    <state x="315" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607425198215">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="315" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1607425198215" />
+    <state x="328" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607422016138">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="328" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1607422016138" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1607426586667">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1607426586667" />
+    <state width="1075" height="240" key="GridCell.Tab.0.bottom" timestamp="1607425604330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607425604330" />
+    <state width="1075" height="240" key="GridCell.Tab.0.center" timestamp="1607425604329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1607425604329" />
+    <state width="1075" height="240" key="GridCell.Tab.0.left" timestamp="1607425604329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1607425604329" />
+    <state width="1075" height="240" key="GridCell.Tab.0.right" timestamp="1607425604330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1607425604330" />
+    <state width="1075" height="240" key="GridCell.Tab.1.bottom" timestamp="1607425604331">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607425604331" />
+    <state width="1075" height="240" key="GridCell.Tab.1.center" timestamp="1607425604330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1607425604330" />
+    <state width="1075" height="240" key="GridCell.Tab.1.left" timestamp="1607425604330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1607425604330" />
+    <state width="1075" height="240" key="GridCell.Tab.1.right" timestamp="1607425604331">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1607425604331" />
+    <state width="1075" height="240" key="GridCell.Tab.2.bottom" timestamp="1607424910852">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.2.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607424910852" />
+    <state width="1075" height="240" key="GridCell.Tab.2.center" timestamp="1607424910851">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.2.center/0.0.1366.768@0.0.1366.768" timestamp="1607424910851" />
+    <state width="1075" height="240" key="GridCell.Tab.2.left" timestamp="1607424910851">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.2.left/0.0.1366.768@0.0.1366.768" timestamp="1607424910851" />
+    <state width="1075" height="240" key="GridCell.Tab.2.right" timestamp="1607424910851">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1075" height="240" key="GridCell.Tab.2.right/0.0.1366.768@0.0.1366.768" timestamp="1607424910851" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1607426368986">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1607426368986" />
+    <state x="485" y="111" width="424" height="396" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607419393629">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="485" y="111" width="424" height="396" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.768@0.0.1366.768" timestamp="1607419393629" />
+    <state x="296" y="123" width="581" height="500" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1607419439147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="296" y="123" width="581" height="500" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1607419439147" />
+    <state x="66" y="45" key="new project wizard" timestamp="1607401975213">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="66" y="45" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1607401975213" />
+    <state x="478" y="131" key="refactoring.ChangeSignatureDialog" timestamp="1607344924991">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="478" y="131" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1607344924991" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../subscriber/src/main/java/ru/intech/subscriber/service/MessageService.java</url>
+          <line>19</line>
+          <properties class="ru.intech.subscriber.persistance.service.MessageService" method="receiveMessage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../subscriber/src/main/java/ru/intech/subscriber/service/MessageService.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../subscriber/src/main/java/ru/intech/subscriber/service/MessageService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../subscriber/src/main/java/ru/intech/subscriber/service/MessageService.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../subscriber/src/main/java/ru/intech/subscriber/service/MessageService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
